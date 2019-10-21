@@ -3,4 +3,4 @@ this is a test for study;
 
 这是我的一次操作
 
-Creating a new branch is quick.
+Creating a new branch is quick & simple.
